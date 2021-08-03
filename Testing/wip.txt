@@ -1,0 +1,7 @@
+# This blocklist is a WIP to test rule generation
+#
+# Date: 03/08/2021
+# Fetch the latest version of this file: https://raw.githubusercontent.com/Ultra-Null/berrypot/main/Testing/wip.txt
+# Project home page: https://github.com/Ultra-Null/berrypot
+# ===============================================================
+0.0.0.0 *.wgcrowd.io
