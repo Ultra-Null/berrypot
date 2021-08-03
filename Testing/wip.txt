@@ -5,3 +5,6 @@
 # Project home page: https://github.com/Ultra-Null/berrypot
 # ===============================================================
 0.0.0.0 (^|\.)wgcrowd\.io$
+
+#amazon#
+0.0.0.0 (^|\.)fera\.ai$
